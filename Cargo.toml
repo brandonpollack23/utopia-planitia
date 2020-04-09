@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 winit = "0.22.0"
-sarekt = "0.0.1-alpha"
+sarekt = "0.0.1"
